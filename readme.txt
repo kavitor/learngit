@@ -6,4 +6,6 @@ Creating a new branch is quick & simple.
 Creating a dev branch. not fast forward.
 ----------------bug branch-------------------------
 coding on dev...(finish)
+checkout -b branch issue-101... fixed bug.
+
 
